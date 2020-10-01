@@ -1,0 +1,7 @@
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\bin\Debug\tjuv och polis.exe.config
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\bin\Debug\tjuv och polis.exe
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\bin\Debug\tjuv och polis.pdb
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\obj\Debug\tjuv och polis.csprojAssemblyReference.cache
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\obj\Debug\tjuv och polis.csproj.CoreCompileInputs.cache
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\obj\Debug\tjuv och polis.exe
+C:\Users\NormanIrmbo\source\repos\tjuv och polis\obj\Debug\tjuv och polis.pdb
